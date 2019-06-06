@@ -74,3 +74,5 @@ countFrom(1, 10).then(function () {
 var now = moment('2019-06-05 18:13');
 console.log(now.format('DD/MM/YYYY HH:mm'));
 console.log(now.fromNow());
+
+console.log('Modified');
